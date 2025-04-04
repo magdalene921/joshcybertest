@@ -2,8 +2,8 @@
 
 <h2>👩🏽‍💻 Software Development - UI/UX Design Projects:</h2>
 
-- <b>Front-End Web Development (ALX)</b>
-- <b>UI/UX Design (CWW Tech Africa)</b> 
+- <b>[CareerLink App](https://github.com/magdalene921/CareerLink/blob/main/README.md)</b>
+- <b>boohoo E-commerce Redesign</b> 
 
 <h2>🌱 I’m currently learning:<h2>  
 
